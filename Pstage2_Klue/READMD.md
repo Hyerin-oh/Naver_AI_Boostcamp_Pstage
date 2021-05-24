@@ -19,12 +19,13 @@
 
 
 ```
+
 ├── load_data.py       
 ├── train_trainer.py                
 ├── train_kfold.py            
 ├── inference.py
 ├── inference.py            
-└── EDA.ipynb        
+└── EDA.ipynb    
 
 ```
 
@@ -36,7 +37,7 @@
 - `train.py` : train dataset만을 학습할 시 사용
 - `inference.py` : 저장된 모델을 불러와 추론 후 submission.csv를 만드는 파일
 - `utils.py` : 그 외 모든 기능
-- EDA.ipynb : Tokenizer에 따른 unk 토큰 분포 비교 , max_len 선정을 위한 문장의 길이 비교 , label의 분포 등 EDA를 위한 파일
+- `EDA.ipynb` : Tokenizer에 따른 unk 토큰 분포 비교 , max_len 선정을 위한 문장의 길이 비교 , label의 분포 등 EDA를 위한 파일
 
 ####   - Train 코드 
 
