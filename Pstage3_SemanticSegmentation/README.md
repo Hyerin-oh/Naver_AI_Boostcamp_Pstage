@@ -1,7 +1,6 @@
 
 # ♻ 재활용 품목 분류를 위한 Semantic Segmentation
 ###### 📌 본 대회는 Naver AI Boostcamp에서 팀 프로젝트로 진행되었습니다. 
-<br></br>
 ## 📋 Table of content
 - [최종 결과](#Result)<br>
 - [대회 개요](#Overview)<br>
