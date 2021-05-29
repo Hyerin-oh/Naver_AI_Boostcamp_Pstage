@@ -1,7 +1,6 @@
 # 😷 마스크 착용 상태 분류
 
 ###### 📌 본 대회는 Naver AI Boostcamp에서 개인 프로젝트로 진행되었습니다. 
-<br></br>
 ## 📋 Table of content
 
 - [최종 결과](#Result)<br>
