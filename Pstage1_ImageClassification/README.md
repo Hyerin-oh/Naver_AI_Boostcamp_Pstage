@@ -1,7 +1,7 @@
-# Pstage 1 ] Image Classification
+# 😷 마스크 착용 상태 분류
 
-📌 본 대회는 Naver AI Boostcamp에서 개인 프로젝트로 진행되었습니다. 
-
+###### 📌 본 대회는 Naver AI Boostcamp에서 개인 프로젝트로 진행되었습니다. 
+<br></br>
 ## 📋 Table of content
 
 - [최종 결과](#Result)<br>
@@ -12,13 +12,13 @@
 
 <br></br>
 ## 🎖 최종 결과 <a name = 'Result'></a>
-- private LB (116등)
-    - F1 score : `0.7064` 
+- 116등 (총 250명)
+- private LB : `0.7064` (F1 score)
  
 
 
 <br></br>
-## 👁 대회 개요 <a name = 'Overview'></a>
+## 👀 대회 개요 <a name = 'Overview'></a>
 - 대회 명 : 마스크 착용 상태 분류
   <details>
   <summary>자세한 대회 설명</summary>
@@ -44,8 +44,8 @@
 
 <br></br>
 ## 📝 문제 정의 및 해결 방법 <a name = 'Solution'></a>
-- [wrap up report](https://vimhjk.oopy.io/d5f7f6d2-0a5c-442a-bfcf-4694c88b5c5d)서 문제 정의, 해결, 솔루션을 확인하실 수 있습니다. 
-- 위 report에는 대회를 참가한 후, 대회에 대한 본인의 회고도 포함되어있습니다. 
+- 해당 대회에 대한 문제를 어떻게 정의하고, 어떻게 풀어갔는지, 최종적으로는 어떤 솔루션을 사용하였는지에 대해서는 [wrapup report](https://vimhjk.oopy.io/d5f7f6d2-0a5c-442a-bfcf-4694c88b5c5d)에서 자세하게 기술하고 있습니다.
+- 위 report에는 대회를 참가한 후, 개인의 회고도 포함되어있습니다.
 
 <br></br>
 ## 💻 CODE 설명<a name = 'Code'></a>
