@@ -2,8 +2,6 @@
 # 📑 문장 내 개체간 관계 추출
 
 ###### 📌 본 프로젝트는 Naver AI Boostcamp에서 개인 프로젝트로 진행됐습니다.
-
-<br></br>
 ## 📋 Table of content
 
 - [최종 결과](#Result)<br>
