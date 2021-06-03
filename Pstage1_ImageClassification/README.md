@@ -32,7 +32,7 @@
 
   </div>
   </details>
-
+- 마스크 착용 분류, 연령대, 나이에 따라 총 18개의 class로 이미지를 분류하는 task (Image classification)
 - Dataset 설명
   - 384 x 512 크기의 train 18900장 (60%) , public test 6300장 (20%) , private test 6300장 (20%)
   - 총 18개의 class 존재 (3개의 연령대 , 3개의 마스크 착용 여부 , 2개의 성별)
