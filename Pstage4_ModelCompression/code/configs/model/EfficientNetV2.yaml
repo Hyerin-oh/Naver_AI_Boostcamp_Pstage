@@ -1,0 +1,21 @@
+input_channel: 3
+
+depth_multiple: 1.0
+width_multiple: 1.0
+
+backbone:
+    # [repeat, module, args]
+    # MBCONV : T, C, S, K
+    [
+        [1, Conv ,  [24, 3, 2]],
+        [2, FusedMBConv, [1, 24, 1, 3]],
+        [4, FusedMBConv, [4,48,2,3]],
+        [4, FusedMBConv, [4,64,2,3]],
+        [6, MBConv, [4,128,2,3]],
+        [9, MBConv, [6,160,1,3]],
+        [15, MBConv, [6,272,2,3]],
+        [1, Conv ,  [1792, 1, 1]],
+        [1, GlobalAvgPool, []],
+        [1, Flatten, []],
+        [1, Linear, [9]],
+    ]
