@@ -1,5 +1,6 @@
 # 부스트캠프 AI TECH <Pstage 4 경량화>
 ###### 📌 본 대회는 Naver AI Boostcamp에서 팀 프로젝트로 진행되었습니다. 
+###### 👨‍👨‍👧‍👦 Commit 내역은 여기서 확인 가능합니다. -> [Team github](https://github.com/pstage4-zeroki/p4-opt-6-zeroki)
 ## 📋 Table of content
 
 - [최종 결과](#Result)<br>
